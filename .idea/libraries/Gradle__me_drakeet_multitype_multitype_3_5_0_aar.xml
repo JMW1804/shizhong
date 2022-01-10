@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: me.drakeet.multitype:multitype:3.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0c8265dcde23f240efa83e6a4afd43c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0c8265dcde23f240efa83e6a4afd43c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0c8265dcde23f240efa83e6a4afd43c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.drakeet.multitype/multitype/3.5.0/a09ea02f94cc35dc3a57fb2f0ef897ca78bb10f3/multitype-3.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

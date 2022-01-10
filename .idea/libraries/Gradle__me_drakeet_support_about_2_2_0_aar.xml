@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: me.drakeet.support:about:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01a900f0c7b1d8ebc4795680c11cdfbe/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01a900f0c7b1d8ebc4795680c11cdfbe/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01a900f0c7b1d8ebc4795680c11cdfbe/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.drakeet.support/about/2.2.0/a6ce5fc4298989f5c403042876b9e1a2cfc79a93/about-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
