@@ -3,13 +3,13 @@
 buildscript {
 
     repositories {
+        mavenCentral()
         google()
         jcenter()
-        mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.4.0'
-        classpath 'org.greenrobot:greendao-gradle-plugin:3.2.2'
+        classpath 'com.android.tools.build:gradle:4.1.2'
+        classpath 'org.greenrobot:greendao-gradle-plugin:3.3.0'
 //        implementation 'com.android.support:multidex:1.0.3'
     }
 
@@ -17,11 +17,16 @@ buildscript {
 
 allprojects {
     repositories {
+        mavenCentral()
         google()
         jcenter()
+        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+        maven { url 'https://maven.aliyun.com/repository/jcenter'}
+
         maven { url 'https://jitpack.io' }
-        //Bmob的maven仓库地址--必填
-        maven {url 'https://dl.bintray.com/chaozhouzhang/maven'}
+        maven {url 'https://dl.bintray.com/chaozhouzhang/maven' }
     }
 }
 
